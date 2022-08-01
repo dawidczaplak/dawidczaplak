@@ -7,7 +7,7 @@ email: dawidczaplak@gmail.com
 linkedin: https://www.linkedin.com/in/dawid-czaplak-09a560131/
 phone: +48 503961104
 
-<p>I would like to have a chance in ML projects and Data related things. I finished one of the Python ZeroToMastery course.</p>
+<p>I'm looking for opportunities in ML projects and Data related things. I finished one of the Python ZeroToMastery course.</p>
 In next months I'm going to touch ML related things, right now I'm introducing into scikit-learn/NumPy/pandas/seaborn/matplotlib starting with basic projects.
 Also I have in my mind SQL/R and Hadoop.
 
