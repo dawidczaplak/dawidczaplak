@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dawidczaplak, Mechanical Engineer in Wind Turbine industry.
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Python/ Machine Learning /Data Science /Big Data
+- 🌱 I’m currently learning Python /Machine Learning /Data Science /Big Data
 - 💞️ I’m looking to collaborate on projects related to data more in ML and AI
 - 📫 How to reach me by:  
 email: dawidczaplak@gmail.com  
